@@ -191,36 +191,30 @@ The project tracks several important banking KPIs, including:
 
 ## 📂 Project Structure
 
+```text
 Banking-Domain-Analytics/
-
 ├── Dataset/
-│ ├── 1_Messy.csv
-│ └── 2_Cleaned_Data.csv
-│
+│   ├── 1_Messy.csv
+│   └── 2_Cleaned_Data.csv
 ├── Data Cleaning/
-│ └── Data_Cleaning.ipynb
-│
+│   └── Data_Cleaning.ipynb
 ├── SQL Queries/
-│ └── Banking_SQL_Queries.sql
-│
+│   └── Banking_SQL_Queries.sql
 ├── Power BI Dashboard/
-│ └── Banking_Analytics_Report.pbix
-│
+│   └── Banking_Analytics_Report.pbix
 ├── Streamlit App/
-│ └── app.py
-│
+│   └── app.py
 ├── Screenshots/
-│ ├── Home_Page.png
-│ ├── Loan_Analysis.png
-│ ├── Deposit_Analysis.png
-│ ├── Summary_Dashboard.png
-│ └── NextGen_AI_Assistant.png
-│
+│   ├── Home_Page.png
+│   ├── Loan_Analysis.png
+│   ├── Deposit_Analysis.png
+│   ├── Summary_Dashboard.png
+│   └── NextGen_AI_Assistant.png
 ├── Documents/
-│ ├── Project_Report.docx
-│ └── Terminologies.docx
-│
+│   ├── Project_Report.docx
+│   └── Terminologies.docx
 └── README.md
+```
 
 ---
 
