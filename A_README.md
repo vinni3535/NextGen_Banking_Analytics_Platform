@@ -222,7 +222,7 @@ Banking-Domain-Analytics/
 
 ### Home Dashboard
 
-<img width="1334" height="753" alt="G_home" src="https://github.com/user-attachments/assets/f4285de2-1c5c-487a-a24d-f511a5a7383d" />
+<img width="668" height="376" alt="G_home" src="https://github.com/user-attachments/assets/f4285de2-1c5c-487a-a24d-f511a5a7383d" />
 
 
 ### Loan Analysis Dashboard
@@ -237,12 +237,12 @@ Banking-Domain-Analytics/
 
 ### Summary Dashboard
 
-<img width="1331" height="747" alt="J_Summary" src="https://github.com/user-attachments/assets/fd59b800-d891-45d2-9b5d-a2453b991c78" />
+<img width="668" height="372" alt="J_Summary" src="https://github.com/user-attachments/assets/fd59b800-d891-45d2-9b5d-a2453b991c78" />
 
 
 ### NextGen AI Assistant
 
-<img width="1341" height="826" alt="K_NextGen_Pic1" src="https://github.com/user-attachments/assets/c6315c85-974c-4599-b4d5-e379a2432a4b" />
+<img width="668" height="372" alt="K_NextGen_Pic1" src="https://github.com/user-attachments/assets/c6315c85-974c-4599-b4d5-e379a2432a4b" />
 
 
 
